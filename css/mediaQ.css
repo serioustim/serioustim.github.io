@@ -1,0 +1,80 @@
+ @media only screen and (max-width:1261px ){
+  .list-vertical-icon-col{
+    display: block !important;
+  }
+.nav-links-col{
+  display: none !important;
+}
+.list-vertical-row{
+    display: block !important;
+  }
+
+
+}
+@media only screen and (max-width: 1080px){
+  .caroussel-container{
+    display: none !important;
+  }
+  .welcome-container{
+    display: block !important;
+  }
+ }
+
+  /*@media only screen and (max-width:426px ){
+  .hc{
+    font-size: 1.7rem !important;
+  }*/
+
+  
+
+@media only screen and (max-width:626px ){
+  .hc{
+    font-size: 1.9rem !important;
+  }
+
+}
+
+
+@media only screen and (max-width:835px ){
+  .hmyu,.nnumber,.number_disc{
+    font-size: 1.5rem !important;
+  }
+}
+@media only screen and (max-width:971px ){
+  .hmyu,.nnumber,.number_disc{
+    font-size: 2.5rem !important;
+  }
+}
+
+@media only screen and (max-width:835px){
+  .hmyu{
+    font-size: 2rem !important;
+  }
+  .nnumber,.number_disc{
+  	font-size: 1.5rem !important;
+  }
+  .count1{
+  	margin-left: 50px !important;
+  }
+
+
+  .counters .row{
+  	margin-left: -40px !important;
+  }
+
+  .subcontent2{
+  	height: 440px !important;
+  }
+}
+
+
+
+/* Taller footer on small screens */
+/*@media (max-width: 34em) {
+    body {
+      margin-bottom: 500px;
+    }
+   .footer {
+      height: 700px;
+    }
+}*/
